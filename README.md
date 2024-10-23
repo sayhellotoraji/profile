@@ -3,9 +3,7 @@
 
 - 🔭 I' m open to work for roles: **Software Engineer, Java Full stack developer**
 
-- 🌱 I’m currently learning **Spring, React & Amazon Web Services**
-
-- 🤝 I have completed a Java Full Stack Development course at [Guvi](https://www.guvi.in/certificate?id=U761K69d61mLY6aJ91&download=true)
+- 🤝 I have completed a Java Full Stack Development certification course at [Guvi](https://www.guvi.in/certificate?id=U761K69d61mLY6aJ91&download=true)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sayhellotoraji](https://github.com/sayhellotoraji)
 
